@@ -29,7 +29,6 @@ Vanilla css
 
 Back-end:
 Firebase 
-
 # Home page
 ![image](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/home.JPG)
 
@@ -38,5 +37,20 @@ Firebase
 Reviews show statistics about a specific game
 
 ![](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/reviews.JPG)
+
+# User profile
+
+![](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/profile.JPG)
+
+# User lists
+
+
+![](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/lists.JPG)
+
+
+
+
+This app is still in development,if you found any bugs or want to contribute,any help is welcome!
+
 
 
