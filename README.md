@@ -37,6 +37,6 @@ Firebase
 
 Reviews show statistics about a specific game
 
-#[](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/reviews.JPG)
+![](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/reviews.JPG)
 
 
