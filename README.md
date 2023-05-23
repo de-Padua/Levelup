@@ -33,5 +33,10 @@ Firebase
 # Home page
 ![image](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/home.JPG)
 
-There was an error committing your changes: de-Padua has committed since you started editing. See what changed
+# Reviews
+
+Reviews show statistics about a specific game
+
+#[](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/reviews.JPG)
+
 
