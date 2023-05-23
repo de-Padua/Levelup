@@ -31,5 +31,5 @@ Back-end:
 Firebase 
 
 #Home page
-[image](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/home.JPG)
+![image](https://github.com/de-Padua/levelup-social_media/blob/Main/level-up/home.JPG)
 
