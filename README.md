@@ -16,7 +16,7 @@ Level Up is a social media application that enables users to share their game st
 demo account : 
 
 email > user@email.com  
-password > user123123@
+password > User123123@
 
 
 ## Details
