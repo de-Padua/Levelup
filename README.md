@@ -9,9 +9,7 @@ Level Up is a social media application that enables users to share their game st
 
 ## Live demo 
 
-[[https://flashbugtracker.netlify.app/](https://levelup-socialmedia.netlify.app/)
-](https://levelup-socialmedia.netlify.app/)
-
+https://levelup-socialmedia.netlify.app/
 
 demo account : 
 
